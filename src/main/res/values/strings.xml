@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">ITCarlowMap</string>
+    <string name="title_activity_maps">IT Carlow Map</string>
+
+    <string-array name="list">
+        <item>Campus</item>
+        <item>Nore Building(G)</item>
+        <item>Nore Building(1)</item>
+        <item>Burrin Building(G)</item>
+        <item>Burrin Building(1)</item>
+        <item>Learning Resource Centre(G)</item>
+        <item>Learning Resource Centre(1)</item>
+        <item>Learning Resource Centre(2)</item>
+        <item>Central Services Building(G)</item>
+        <item>Central Services Building(1)</item>
+        <item>Barrow Centre(G)</item>
+        <item>Barrow Centre(1)</item>
+        <item>Haughton Building(G)</item>
+        <item>Haughton Building(1)</item>
+        <item>Dargan Building(G)</item>
+        <item>Dargan Building(1)</item>
+        <item>Dargan Building(2)</item>
+        <item>Engineering/Technology Building(G)</item>
+        <item>Engineering/Technology Building(1)</item>
+        <item>Killeshin Centre</item>
+        <item>Centre for Aerospace Engineering</item>
+        <item>GAA Stand(G)</item>
+        <item>GAA Stand(1)</item>
+    </string-array>
+</resources>

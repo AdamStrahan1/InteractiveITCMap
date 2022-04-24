@@ -1,0 +1,13 @@
+com/example/itcarlowmap/BuildConfig.java
+ com.example.itcarlowmap.BuildConfig
+com/example/itcarlowmap/databinding/ActivityMapsBinding.java
+ com.example.itcarlowmap.databinding.ActivityMapsBinding
+com/example/itcarlowmap/databinding/ActivityIndoorMapBinding.java
+ com.example.itcarlowmap.databinding.ActivityIndoorMapBinding
+com/example/itcarlowmap/MapsActivity.java
+ com.example.itcarlowmap.MapsActivity
+ com.example.itcarlowmap.MapsActivity$1
+com/example/itcarlowmap/IndoorMapActivity.java
+ com.example.itcarlowmap.IndoorMapActivity
+ com.example.itcarlowmap.IndoorMapActivity$1
+ com.example.itcarlowmap.IndoorMapActivity$ScaleListener
